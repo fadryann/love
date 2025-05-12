@@ -14,7 +14,7 @@ body {
   font-family: "Asap", sans-serif;
   position: relative;
   width: 100vw;
-  min-height: 100vh;
+  min-height: 100dvh;
   text-align: center;
   overflow-x: hidden;
   color: white;
@@ -29,7 +29,7 @@ canvas {
   pointer-events: none;
   position: fixed;
   width: 100vw;
-  height: 100vh;
+  height: 100dvh;
   top: 0;
   left: 0;
 
@@ -41,7 +41,7 @@ h2 {
 section {
   position: relative;
   width: 100vw;
-  min-height: 100vh;
+  min-height: 100dvh;
   display: flex;
   align-items: center;
   justify-content: center;
